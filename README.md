@@ -1,6 +1,8 @@
 # About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=NoranekoSan1000&show_icons=true&locale=en&layout=compact)
+I am a university student developing games using Unity.
+I find the most joy in creating games. 
+I am also involved in developing Android applications with a team as part of my academic activities.
 
 ## Programming Languages
 
@@ -9,6 +11,8 @@
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C](https://skillicons.dev/icons?i=c)
 ![HTML](https://skillicons.dev/icons?i=html)
+![Python](https://skillicons.dev/icons?i=py)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
 ## Tools and Platforms
 
@@ -16,8 +20,8 @@
 
 ![Unity](https://skillicons.dev/icons?i=unity)
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
-![Blender](https://skillicons.dev/icons?i=blender)
 ![Processing](https://skillicons.dev/icons?i=processing)
+![Blender](https://skillicons.dev/icons?i=blender)
 
 ### IDEs
 
@@ -28,6 +32,11 @@
 ### Collaboration and Productivity
 
 ![GitHub](https://skillicons.dev/icons?i=github)
-![Discord](https://skillicons.dev/icons?i=discord)
 ![Notion](https://skillicons.dev/icons?i=notion)
+![Discord](https://skillicons.dev/icons?i=discord)
 ![Postman](https://skillicons.dev/icons?i=postman)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+### Cloud Services
+
+![Firebase](https://skillicons.dev/icons?i=firebase)
