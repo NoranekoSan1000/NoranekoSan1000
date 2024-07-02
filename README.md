@@ -17,6 +17,7 @@ I am also involved in developing Android applications with a team as part of my 
 ## Tools and Platforms
 
 ### Development Tools
+Organized by experience level, with the most experienced tools on the left.  
 
 ![Unity](https://skillicons.dev/icons?i=unity)
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
@@ -24,6 +25,7 @@ I am also involved in developing Android applications with a team as part of my 
 ![Blender](https://skillicons.dev/icons?i=blender)
 
 ### IDEs
+I often use it in my academic activities.
 
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
@@ -38,5 +40,6 @@ I am also involved in developing Android applications with a team as part of my 
 ![Figma](https://skillicons.dev/icons?i=figma)
 
 ### Cloud Services
+Less experienced.
 
 ![Firebase](https://skillicons.dev/icons?i=firebase)
