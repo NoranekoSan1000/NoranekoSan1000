@@ -1,8 +1,8 @@
 # About Me
 
-I am a university student developing games using Unity.
-I find the most joy in creating games. 
-I am also involved in developing Android applications with a team as part of my academic activities.
+I am a university student developing games using Unity.  
+I find the most joy in creating games.   
+I am also involved in developing Android applications with a team as part of my academic activities.  
 
 ## Programming Languages
 
